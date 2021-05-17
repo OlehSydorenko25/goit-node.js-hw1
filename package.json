@@ -1,0 +1,27 @@
+{
+  "name": "goit-node.js-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlehSydorenko25/goit-node.js-hw1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlehSydorenko25/goit-node.js-hw1/issues"
+  },
+  "homepage": "https://github.com/OlehSydorenko25/goit-node.js-hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
